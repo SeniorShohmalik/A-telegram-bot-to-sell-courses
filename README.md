@@ -1,1 +1,1 @@
-A TELEGRAM Bot ( Aiogram ) , to introduce the courses and eventually lets contact the customer with the saler .
+A TELEGRAM Bot ( Aiogram ) , to introduce the courses and eventually lets the customer contact with the saler .
